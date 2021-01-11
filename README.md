@@ -23,18 +23,14 @@ Once all the blanks have been filled, the game will end and congratulate you.
 
 If however you use up all your guesses, the game will tell you and inform you of your word.
 
-## Installation
+## Installation and Usage
 
 Clone Repo and run locally
 
 ```bash
 git clone https://github.com/PaulMorioni/node-CLIhangman
-```
-
-## Usage
-
-From directory run
-
-```bash
+cd node-CLIhangman
+npm install
 node hangman.js
+
 ```
