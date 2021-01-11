@@ -1,0 +1,32 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "CLI Hangman Game",
+  "main": "hangman.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "Math": "^0.0.1-security",
+    "csv-parser": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMorioni/node-CLIHangman.git"
+  },
+  "keywords": [
+    "CLI",
+    "Hangman",
+    "Node"
+  ],
+  "author": "Paul Morioni",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PaulMorioni/node-CLIHangman/issues"
+  },
+  "homepage": "https://github.com/PaulMorioni/node-CLIHangman#readme"
+}
